@@ -7,7 +7,7 @@ metadata:
 spec:
   ingressClassName: nginx
   rules:
-  - host: vprofile.thehkh.com
+  - host: vprofile.vprofile-k8s-tf-github-actions.flywheelsites.com
     http:
       paths:
       - path: /
